@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-csc33200-assignment-2-multithreaded-app-that-can-find-the-integer-in-the-range-1-to-1000
+<br>
+ssignment 2Develop a multithreaded app that can find the integer in the range 1 to 10000 that has the largest number of divisors. It should print that integer as well as the time spent to finish the calculation. You can use any language (e.g. C, Java, or Python), and Any API library.
+
+Submit the following:I. The multithreaded App code with all commentsII. Screenshot of the output for both programsIII. Assignment report which will answer the following questions:1. How long it took your app to finish the job when using 1 thread?2. How many threads your machine can run simultaneously?3. How long it took your app to finish the job when using all available threads?4. Did you use task or data parallelization for this program? Why?
